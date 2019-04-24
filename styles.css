@@ -24,7 +24,7 @@ li {
   margin-bottom: 10px;
 }
 
-li:nth-of-type(3) {
+ol ul:nth-of-type(1) li:nth-of-type(3) {
   color: blue;
 }
 
